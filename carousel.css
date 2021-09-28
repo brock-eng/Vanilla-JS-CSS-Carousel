@@ -1,16 +1,7 @@
 
 /* 
-    Skill section carousel css styles sheet for Zach Brock's 
-    portfolio website.
+    Generic CSS Style Sheet for Carousel
 */
-
-.skill{
-    max-width: 800px;
-}
-
-.skills-lists{
-    text-align: left;
-}
 
 .carousel {
     position: relative;
@@ -92,11 +83,6 @@
     .carousel{
         width: 100%;
     }
-
-    .skill{
-        max-width: 300px;
-    }
-
 }
 
 .is-hidden{
