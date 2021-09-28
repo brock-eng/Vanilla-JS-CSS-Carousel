@@ -1,5 +1,5 @@
 # Vanilla-JS-CSS-Carousel
-Generalized Vanilla-JS-CSS Carousel for use with an arbitrary number of panels and content.  
+Generalized Vanilla-JS-CSS Carousel for use with an arbitrary number of panels and content.  Utility images (carousel arrows) not included as part of this repo.
 
 ## Sample Usage for x4 Panels
                   <div class = "carousel">
